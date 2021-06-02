@@ -1,0 +1,19 @@
+.sec1{
+    height: 500px;
+    width: 100%;
+    background-image: linear-gradient(#000fff,aqua,rgb(235, 137, 175));
+    border: 5px solid;
+}
+.text{
+
+    text-align: center;
+}
+h1{
+    color: red;
+    text-align: center;
+}
+input{
+    height: 80px;
+    width: 400px;
+    padding-left: 10PX;
+}
